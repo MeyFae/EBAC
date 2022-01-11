@@ -1,2 +1,2 @@
 # EBAC
-Cursos e Exercicios
+Repositorio de Cursos e Exercicios EBAC
